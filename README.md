@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the data analysis, visualizations, and insights generated for the CodeAlpha Internship program.
+This repository contains the data analysis, visualizations, and insights generated for the CodeAlpha Data Analytics Internship program.
 
 ---
 
