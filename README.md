@@ -1,11 +1,27 @@
-# CodeAlpha_EDA
-Exploratory Data Analysis on E-Commerce Sales Dataset for CodeAlpha Internship.
-## Task 3: Interactive Business Intelligence Dashboard (Power BI)
+# CodeAlpha Data Analytics Internship - E-Commerce EDA & Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+##Project Overview
+This repository contains the data analysis, visualizations, and insights generated for the CodeAlpha Data Analytics Internship program.
 
-### Key Executive Insights:
-- **Revenue Trend:** Identified mid-year revenue peaks followed by seasonal stabilization across monthly sales cycles.
-- **Product Performance:** Top-selling categories (Chairs, Printers, and Laptops) lead overall revenue contribution.
-- **Payment Distribution:** Balanced sales volume across Credit Cards, Debit Cards, and Online payment channels.
+---
+
+##Visualizations & Dashboard
+
+### Power BI Dashboard Preview
+![Dashboard Preview](images/Dashboard_preview.png)
+
+### Correlation Matrix
+![Correlation Matrix](images/correlation_matrix.png)
+
+### Distribution Plot
+![Distribution Plot](images/distribution_plot.png)
+
+---
+
+##Repository Structure
+- `Task_2_EDA/`: Extended exploratory analysis files and task documentation.
+- `EDA_Analysis.ipynb`: Python Jupyter Notebook with data cleaning and statistical exploratory analysis.
+- `Task3_ECommerce_Dashboard.pbix`: Power BI interactive dashboard file.
+- `clean_dataset.csv`: Processed e-commerce dataset.
+- `images/`: Exported visualizations and preview images.
 -
