@@ -1,11 +1,12 @@
 # CodeAlpha Data Analytics Internship - E-Commerce EDA & Dashboard
 
-##Project Overview
-This repository contains the data analysis, visualizations, and insights generated for the CodeAlpha Data Analytics Internship program.
+## Project Overview
+
+This repository contains the data analysis, visualizations, and insights generated for the CodeAlpha Internship program.
 
 ---
 
-##Visualizations & Dashboard
+## Visualizations & Dashboard
 
 ### Power BI Dashboard Preview
 ![Dashboard Preview](images/Dashboard_preview.png)
@@ -18,7 +19,8 @@ This repository contains the data analysis, visualizations, and insights generat
 
 ---
 
-##Repository Structure
+## Repository Structure
+
 - `Task_2_EDA/`: Extended exploratory analysis files and task documentation.
 - `EDA_Analysis.ipynb`: Python Jupyter Notebook with data cleaning and statistical exploratory analysis.
 - `Task3_ECommerce_Dashboard.pbix`: Power BI interactive dashboard file.
