@@ -9,13 +9,13 @@ This repository contains the data analysis, visualizations, and insights generat
 ## Visualizations & Dashboard
 
 ### Power BI Dashboard Preview
-![Dashboard Preview](images/Dashboard_preview.png)
+![Dashboard Preview](Images/Dashboard_preview.png)
 
 ### Correlation Matrix
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](Images/correlation_matrix.png)
 
 ### Distribution Plot
-![Distribution Plot](images/distribution_plot.png)
+![Distribution Plot](Images/distribution_plot.png)
 
 ---
 
@@ -25,5 +25,5 @@ This repository contains the data analysis, visualizations, and insights generat
 - `EDA_Analysis.ipynb`: Python Jupyter Notebook with data cleaning and statistical exploratory analysis.
 - `Task3_ECommerce_Dashboard.pbix`: Power BI interactive dashboard file.
 - `clean_dataset.csv`: Processed e-commerce dataset.
-- `images/`: Exported visualizations and preview images.
+- `Images/`: Exported visualizations and preview images.
 -
