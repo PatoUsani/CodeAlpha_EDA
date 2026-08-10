@@ -8,10 +8,10 @@ This folder contains the **Data Visualization** deliverable completed as part of
 ## Repository Structure
 ```text
 Task_3_Data_Visualization/
-├── Data_Visualization.ipynb   # Python notebook for chart generation
-├── Sales_Dashboard.pbix        # Power BI dashboard file (or Tableau workbook)
-├── dashboard_preview.png       # High-resolution export of the dashboard
-└── README.md                  # Visual documentation
+├── Data_Visualization.ipynb          # Python notebook for chart generation
+├── Task3_ECommerce_Dashboard.pbix     # Power BI dashboard file
+├── Dashboard_preview.png              # High-resolution export of the dashboard
+└── README.md                          # Visual documentation
 
 Dashboard Objectives & Metrics
  * Executive KPI Overview: Track key metrics such as Total Sales Revenue, Total Units Sold, Average Order Value, and Customer Ratings.
