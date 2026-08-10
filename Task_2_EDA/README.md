@@ -8,8 +8,8 @@ This folder contains the **Exploratory Data Analysis (EDA)** performed on the E-
 ## Repository Structure
 ```text
 Task_2_EDA/
-├── Task_2_EDA.ipynb        # Jupyter Notebook with python code & visual analysis
-├── ecommerce_sales.csv     # Dataset used for analysis
+├── EDA_Analysis.ipynb.txt        # Jupyter Notebook with python code & visual analysis
+├── clean_dataset.csv     # Dataset used for analysis
 └── README.md               # Task documentation
 
 Key Questions & Analysis Objectives
